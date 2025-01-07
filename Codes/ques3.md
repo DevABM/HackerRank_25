@@ -9,7 +9,7 @@ Calculate Threshold:
 Multiply total trades by 0.05 to find the minimum number of trades needed for a customer to be considered active.
 Count Customer Trades:
 
-Use collections.Counter to count occurrences of each customer in the customers list.
+Use collections. Counter to count occurrences of each customer in the customers list.
 Filter Active Customers:
 
 Include only those customers whose trade count is greater than or equal to the threshold.
